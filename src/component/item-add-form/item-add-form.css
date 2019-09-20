@@ -1,0 +1,12 @@
+/*.form-control {*/
+/*    width: auto !important;*/
+/*    flex-grow: 1;*/
+/*    margin-right: 10px;*/
+/*}*/
+.item-add-form{
+    margin-top: 20px;
+}
+.item-add-form button{
+    white-space: nowrap;
+    margin-left: 10px;
+}
